@@ -1,1 +1,1 @@
-# Log2Base2 - Problem-Solving-for-Beginners
+# Log2Base2 - Problem Solving for Beginners
