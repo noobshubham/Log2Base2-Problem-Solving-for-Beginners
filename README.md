@@ -1,1 +1,2 @@
-# Log2Base2 - Problem Solving for Beginners
+# Log2Base2 - [Problem Solving for Beginners](https://log2base2.com/courses/problem-solving-beginners)
+After learning a programming language, building logic and solving real-life problems is inevitable. In this course, we will learn how to build logic and solve the fundamental set of problems such as maths, bitwise etc. Once we learn how to approach these problems, solving similar problems will be much easier by following similar approaches with few dynamics.
